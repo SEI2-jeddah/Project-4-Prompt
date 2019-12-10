@@ -3,11 +3,7 @@
 In order to get a satisfactory score, by the time you present your project, you
 **must** meet the following requirements:
 
-### Deployment
-Be deployed online, where the rest of the world can access it.
-1.  [ ]  Host on your public Github page.
-1.  [ ]  Deploy client application
-1.  [ ]  Deploy server application.
+
 
 ### Version Control
 Demonstrate using version control by:
@@ -67,6 +63,12 @@ Follow the [README](README.md) Template
 1.  [ ]  Create at least 4 RESTful routes for handling GET, POST, PUT/PATCH, and DELETE requests for a resource other than User.
 1.  [ ]  Have at least 1 resource that has a relationship to User
 1.  [ ]  Any actions which change data must be authenticated and the data must be "owned" by the user performing the change or a user determined by an access control list
+
+### Deployment
+Be deployed online, where the rest of the world can access it.
+1.  [ ]  Host on your public Github page.
+1.  [ ]  Deploy client application
+1.  [ ]  Deploy server application.
 
 
 ## [License](LICENSE)
