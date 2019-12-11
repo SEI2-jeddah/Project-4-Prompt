@@ -9,9 +9,7 @@ Here's a rough sketch of what you should do and in what order:
 ### Planning
 
 1.  [ ] Create User Stories
-1.  [ ] Review [project-planning-wireframes-study]()
 1.  [ ] Create Wire Frames
-1.  [ ] Review [project-modeling-lab]()
 1.  [ ] Create ERD
 
 ### Set Up
@@ -24,7 +22,7 @@ API
 
 Client
 
-1.  [ ] [Download Browser Template]() or [Download React Auth Template]()
+1.  [ ] [Download React Auth Template]()
 1.  [ ] Create a Github Repository
 
 ### API
