@@ -16,17 +16,16 @@ Here's a rough sketch of what you should do and in what order:
 
 API
 
-1.  [ ] [Download Express API Template]() or [Download Rails API Template]()
+1.  [ ] [Download Express API Template](https://github.com/SEI2-jeddah/express-api-template) or [Download Rails API Template](https://github.com/SEI2-jeddah/rails-api-template)
 1.  [ ] Create a Github Repository
 
 
 Client
 
-1.  [ ] [Download React Auth Template]()
+1.  [ ] [Download React Auth Template](https://github.com/SEI2-jeddah/react-auth-template)
 1.  [ ] Create a Github Repository
 
 ### API
-1.  [ ] Review [express-api]() or [rails-api]()
 1.  [ ] Create your resource and end points
 1.  [ ] Test your resource's end points with curl scripts
 1.  [ ] Add the relationship to a User
